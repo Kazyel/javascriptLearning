@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "..\\..\\Portfolio"
+		},
+		{
+			"path": "..\\..\\exercícios"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "exercícios"
+	}
+}
